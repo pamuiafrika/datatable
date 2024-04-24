@@ -19,4 +19,4 @@ To get started with the project, follow these steps:
    git clone git@github.com:pamuiafrika/datatable.git
    cd datatable
    ```
-2. Open ```bash index.html```
+2. Open ```index.html``` on your browser
